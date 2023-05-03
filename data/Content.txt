@@ -16,4 +16,4 @@ File			proxy 	Source				Country units		Source
 13-huasca.txt	d18O	Huascaran glacier	Per		‰ VSMOW		https://www.ncei.noaa.gov/access/paleo-search/study/2447
 14-bondev.txt	HSG		Ice-rafted debris	TNA		%			https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/bond2001/bond2001.txt
 15-Appendix A.2			Tree-ring sampling notebook
-
+16-16-Appendix A.4-A.6 	Individual tree-cores forming composite d18O and d13C chronologies
