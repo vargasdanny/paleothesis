@@ -20,6 +20,8 @@ Downloading the GitHub paleothesis repository allows you to obtain a local copy 
 
 3. **Navigate to the Directory**: In the terminal or command prompt, navigate to the directory where you want to download the repository. Use the `cd` command to change directories. For example, to navigate to your desktop, use: git clone and paste the "copied URL"
 
+![Screenshot 2023-07-25 140810](https://github.com/vargasdanny/paleothesis/assets/52888912/ea71a4ef-3f0f-460f-b073-759faf4c6e98)
+
 ## How to Download individual files (e.g., datasets)
 
 Click on the file you wish to download to open the individual file. From here, right click the Raw button at the top of the file. 
