@@ -2,7 +2,7 @@
 |---------------|-------|---------------------------|---------|---------|-------------------------------------------------------------------------------------------------------------|
 | 1-trwneb      | trw   | C. nebulosa rings         | Ecu     | mm      | This work                                                                                                   |
 | 2-oxneb       | δ18O  | C. nebulosa rings         | Ecu     | ‰ VSMOW | This work                                                                                                   |
-| 3-carneb      | δ13C  | C. Nebulosa rings         | Ecu     | ‰ VPDB  | This work                                                                                                   |
+| 3-carneb      | δ13C  | C. nebulosa rings         | Ecu     | ‰ VPDB  | This work                                                                                                   |
 | 4-dino1.txt   | δ18O  | Dino-1 speleothem         | Ecu     | ‰ VPDB  | This work                                                                                                   |
 | 5-santi.txt   | δ18O  | Santiago speleothem       | Ecu     | ‰ VPDB  | [Link](https://www.ncei.noaa.gov/pub/data/paleo/speleothem/southamerica/ecuador/santiago2012.txt)         |
 | 6-oxcuy.txt   | δ18O  | C. montana rings          | Ecu     | ‰ VSMOW | [Link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017GL076889)                             |                                                            |
