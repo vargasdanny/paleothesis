@@ -5,9 +5,8 @@
 | 3-carneb      | δ13C  | C. Nebulosa rings         | Ecu     | ‰ VPDB  | This work                                                                                                   |
 | 4-dino1.txt   | δ18O  | Dino-1 speleothem         | Ecu     | ‰ VPDB  | This work                                                                                                   |
 | 5-santi.txt   | δ18O  | Santiago speleothem       | Ecu     | ‰ VPDB  | [Link](https://www.ncei.noaa.gov/pub/data/paleo/speleothem/southamerica/ecuador/santiago2012.txt)         |
-| 6-oxcuy.txt   | δ18O  | C. montana rings          | Ecu     | ‰ VSMOW | [Link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017GL076889)                             |
-| 7-chimbo.txt  | δ18O  | Chimborazo glacier         | Ecu     | ‰ VSMOW | [Link](https://www.theses.fr/2003PA066574)                                                                 |
-| 8-cariaco.txt | Ti    | Cariaco basin             | Ven     | % Ti    | [Link](https://www.ncei.noaa.gov/access/paleo-search/study/2560)                                            |
+| 6-oxcuy.txt   | δ18O  | C. montana rings          | Ecu     | ‰ VSMOW | [Link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017GL076889)                             |                                                            |
+| 7-cariaco.txt | Ti    | Cariaco basin             | Ven     | % Ti    | [Link](https://www.ncei.noaa.gov/access/paleo-search/study/2560)                                            |
 | 8-veaj.txt    | δ18O  | Alfredo Jahn cave         | Ven     | ‰ VPDB  | [Link](https://www.sciencedirect.com/science/article/pii/S027737912300104X?via%3Dihub#da0010)           |
 | 9-shatuca.txt | δ18O  | Shatuca speleothem        | Per     | ‰ VPDB  | [Link](https://www.sciencedirect.com/science/article/pii/S0277379116301603?via%3Dihub)                    |
 | 10-pallca.txt | graysc| Lake sediment             | Ecu     | GrayScale| [Link](https://www.ncei.noaa.gov/pub/data/paleo/paleolimnology/ecuador/readme_rodbell1999.txt)           |
