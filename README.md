@@ -22,7 +22,9 @@ Downloading the GitHub paleothesis repository allows you to obtain a local copy 
 
 ## How to Download individual files (e.g., datasets)
 
-Click on the file you wish to download to open the individual file. From here, right click the Raw button at the top of the file, and then select Save Link As… , choose the location on your computer where you want to save the file, and select Save.
+Click on the file you wish to download to open the individual file. From here, right click the Raw button at the top of the file. 
 
+![Screenshot 2023-07-25 140351](https://github.com/vargasdanny/paleothesis/assets/52888912/5b2a31b1-24d2-486d-b832-ab4d845bc953)
 
-
+Then select Save Link As… , choose the location on your computer where you want to save the file, and select Save.
+![Screenshot 2023-07-25 140404](https://github.com/vargasdanny/paleothesis/assets/52888912/88e6ca24-f6e1-43dd-a0b8-296cca1414c0)
