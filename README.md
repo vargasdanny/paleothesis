@@ -1,5 +1,5 @@
 # paleothesis
-Permanent repository for my Ph.D. Dissertation "The Atlantic Forcing on Ecuadorian Paleorecords: Speleothems and Tree-rings", prepared at the Doctoral School of Physics, University of Debrecen and the Institute for Nuclear Research, Hungary 2023. 
+Permanent repository for my Ph.D. Dissertation "The Atlantic Forcing on Ecuadorian Paleorecords: Speleothems and Tree-rings", prepared at the Doctoral School of Physics, University of Debrecen and the Institute for Nuclear Research, Hungary 2023. It can also be accessed at https://dea.lib.unideb.hu/items/08a8181f-4c7f-44fa-b0fb-2fc4ec50b476 
 
 ## How to Download the full paleothesis repository from GitHub
 
